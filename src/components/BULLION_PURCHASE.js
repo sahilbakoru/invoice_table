@@ -4,7 +4,7 @@ const BULLION_PURCHASE = () => {
   return (
     <div>
 
-        <h1 style={{ marginLeft:'45%'  , color:"red"}}>M U L J I S	</h1>
+        <h1 style={{ marginLeft:'45%'  , color:"red"}}>M U L J I S</h1>
         <h3 style={{ marginLeft:'46%'  , color:"red" }}>Jewellers		</h3>
         <h2 style={{ marginLeft:'38%' , color:"red"  }}>PURCHASE ORDER BULLION </h2>
 
